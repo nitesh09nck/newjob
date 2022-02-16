@@ -1,0 +1,19 @@
+<project>
+
+	<!--pom xml version-->
+    <modelVersion>4.0.0</modelVersion>
+	
+	<!--company name-->
+    <groupId>com.newjob</groupId>
+	
+	<!--name of artifact (war)-->
+    <artifactId>newjob</artifactId>
+	
+	<!--packaging-->
+    <packaging>jar</packaging>
+	
+	<!--release no-->
+    <version>1.0</version>
+    
+</project>
+
